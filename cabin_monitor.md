@@ -20,7 +20,7 @@ Currently an APC BE550G and using the APCUPSD software on the Raspberry Pi.  The
 
 An hourly cron job on the Raspberry Pi triggers a Python script to run and obtain the temperature from the sensor. This script then hits a RESTful API that records the temperature.  The API then hits the [Openweathermap API](http://openweathermap.org/) to record the current external temperatures of Olds, Bowden and Innisfail.
 
-* Should the internal temperature of the cabin hit 10 C or below, a cold alert will be emailed.
+* Should the internal temperature of the cabin hit 5 C or below, a cold alert will be emailed.
 
 * Should the internal temperature hit 0 C or lower, a freeze alert will be emailed.
 
