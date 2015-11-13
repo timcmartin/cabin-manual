@@ -1,6 +1,9 @@
 # Water System
 
+## Updated - June 2015
+
 ![Water System, Updated June 2105](images/watersystem-2015.png "Water System, Updated June 2015")
+![Back Room Vanity](archive/images/under_vanity.jpg "Under Vanity")
 
 ## Legend
 
