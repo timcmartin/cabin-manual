@@ -8,5 +8,5 @@
 * [Archive: Winter: Closing](archive/winter-leaving.md)
 * [Archive: System Updates](archive/system-updates.md)
 * [Archive: Pics](archive/pics.md)
-* Open
+* [Open](open.md)
 
