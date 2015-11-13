@@ -4,4 +4,5 @@
 * [Location](location.md)
 * [Projects](projects.md)
 * [Water System](water_system.md)
-* [Archived](archive/archive.md)
+## Archived
+* [Winter: Closing](archive/winter-leaving.md)
