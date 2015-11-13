@@ -5,6 +5,7 @@
 * [Introduction](README.md)
 * [Location](location.md)
 * [Projects](projects.md)
+* [Cabin Monitoring System](cabin_monitor.md)
 * [Water System](water_system.md)
 
 ## Archive
