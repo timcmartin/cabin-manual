@@ -2,7 +2,7 @@
 
 November 6, 2016 we purchased a new Headrush Micro System HRM 589 from the Source in Olds. This system replaced an old unit which lacked a remote and was having a hard time picking up stations. I suspect the problem was due to electrical interference from the modem and wireless router.  This new system gets more stations, not sure because it is farther away from the router or if it is just a better system.
 
-## Radio Stations
+## Programmed Stations
 
 1. 102.5 - CBC Radio One
 2. 104.5 - Olds Rock Radio
