@@ -37,3 +37,16 @@
 * October 12, 2015: Some cleanup and brought in canoes.
 * October 25, 2015: Finished winter cleanup.  Added siding to kitchen side of house.
 * November 5, 2015: Electricians for hood vent and baseboards.
+* May 6, 2016: Built platform deck with Kate and Rick
+* May 8, 2016: Built new picnic table
+* May 14, 2016: Assembled and installed the bee hive.
+* May 27, 2016: Dug the trench for the underground powerline.
+* May 28, 2016: Laid the conduit and filled in the trench.
+* June 11, 2016: Pulled the cable through the conduit.
+* June 17, 2016: Got Electrical Permit.
+* August 30, 2016: Sign got damaged by a moose.
+* July 3, 2016: Julie VanRosendaal Brisket dinner.
+* July 23, 2016: Markerville Longtable dinner.
+* September 5, 2016: Installed the new meter.
+* September 11, 2016: Load of wood from Bob Robblee.
+* September 12, 2016: Switched over to underground service.

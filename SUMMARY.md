@@ -7,6 +7,7 @@
 * [Projects](projects.md)
 * [Cabin Monitoring System](cabin_monitor.md)
 * [Water System](water_system.md)
+* [Radio Stations](radio_stations.md)
 
 ## Archive
 
