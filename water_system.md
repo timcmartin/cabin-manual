@@ -23,18 +23,27 @@
 * S: Couples J & K Drains
 * T: Midline Drain
 
+## Winter: October Prep
+
+* Turn on Septic Heater.
+* Plug in heat tapes (C & D).
+* Turn on baseboard heat to guest bedroom.
+
 ## Winter: On Leaving
 
 * Turn off power to Water Heater (A) and Well Pump (B).
-* Plug in heat tapes (C & D)
+* Plug in heat tapes (C & D) if not already plugged in.
 * Open air valve (P - little one behind) until some air sucks. Empties line to the well.
 * Pour 1 cup of antifreeze down shower drain, and 1 cup of antifreeze down kitchen drain. Shower p trap is under the house.
 * Open lazy susan and under sink cupboard doors to let heat at the kitchen pipes.
-* Set both baseboard heat zones to 13 C.
+* Set all baseboard heat zones to 13 C.
+
+## Winter: Before Arrival
+
+* Turn up baseboard heat to 17 C.
 
 ## Winter: Upon Arrival
 
-* Ensure cabin temperature is above 0 C.
 * Close air valve (P - little one behind).
 * Turn on power to Water Heater (A) and Well Pump (B).
 * Close cupboard doors.
