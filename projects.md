@@ -71,4 +71,14 @@
 * September 12, 2016: Switched over to underground service.
 * October 3, 2016: Moose in the yard.
 * November 6, 2016: Replaced radio.
+* December 23, 2016: Mom to Cabin.
+* December 24, 2016: Dan and Stef to Cabin.
+* December 29, 2016: Chathamites off to airport.
 
+## 2017
+
+* February 3, 2017: Quote for new glass in kitchen window $600.
+* February 4, 2017: Dumpling making day at Kate and Rick's.
+* February 16, 2017: New glass for kitchen window.
+* February 17, 2017: River broke up.  6 pm covered in ice, 9 pm up to 2nd rung of ladder and flowing.
+* February 18, 2017: Log Splitter - split up the rest of my bucked logs.
