@@ -82,3 +82,5 @@
 * February 16, 2017: New glass for kitchen window.
 * February 17, 2017: River broke up.  6 pm covered in ice, 9 pm up to 2nd rung of ladder and flowing.
 * February 18, 2017: Log Splitter - split up the rest of my bucked logs.
+* March 15, 2017: Back at cabin - ice frozen over again.
+* March 17, 2017: Ice started cracking.
