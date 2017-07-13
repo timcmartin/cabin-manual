@@ -84,3 +84,15 @@
 * February 18, 2017: Log Splitter - split up the rest of my bucked logs.
 * March 15, 2017: Back at cabin - ice frozen over again.
 * March 17, 2017: Ice started cracking.
+* April 5, 2017: Met with Carl re: Barn.
+* May 1, 2017: Bob and Art helped fell some trees for the barn.
+* May 3, 2071: Cleaned up and ready for gravel.
+* May 4, 2017: Gravel done.
+* May 5, 2017: Ditch Cleanup.
+* May 5, 6 2017: Murphy's.
+* May 8, 2017: Barn installed.
+* May 19, 2017: Coyotes pretty active (with pups).
+* May 27, 2017: Scott came out, golfed at Sundre, Beef ribs - 3 hours, foiled, shut down smoker, went and golfed.
+* June 9, 2017: Moose came up the river.
+* June 17, 2017: Chris and Rob back to the cabin between golf rounds.
+* July 4, 2017: Built new hive.
