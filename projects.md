@@ -96,3 +96,7 @@
 * June 9, 2017: Moose came up the river.
 * June 17, 2017: Chris and Rob back to the cabin between golf rounds.
 * July 4, 2017: Built new hive.
+* July 17, 2017: Ordered Firepit snuffer from Sureway Metal.
+* July 20, 2017: Picked up Firepit snuffer.
+* July 21, 2017: Septic and Outhouse pumped out by Kendze Septic.
+* July 22, 2017: Bought the wood for firewood shed.
