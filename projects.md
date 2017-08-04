@@ -100,3 +100,8 @@
 * July 20, 2017: Picked up Firepit snuffer.
 * July 21, 2017: Septic and Outhouse pumped out by Kendze Septic.
 * July 22, 2017: Bought the wood for firewood shed.
+* July 23, 2017: Started the firewood shed.
+* July 28. 2017: Ordered roof for firewood shed.
+* July 29, 2017: Taste of Markerville: Kate, Rick, Saccos, Lawson and Louise.
+* July 30, 2017: Moved existing split wood into the new shed.
+* August 2, 2017: Firewood shed complete.
