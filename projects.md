@@ -105,3 +105,7 @@
 * July 29, 2017: Taste of Markerville: Kate, Rick, Saccos, Lawson and Louise.
 * July 30, 2017: Moved existing split wood into the new shed.
 * August 2, 2017: Firewood shed complete.
+* August 7, 2017: Builder snooping around the cabin.
+* August 20, 2017: Got the fire pump.
+* August 25, 2017: Another cord of wood from Bob Robblee: $215.
+* September 2, 2017: Extracted honey.
