@@ -109,3 +109,11 @@
 * August 20, 2017: Got the fire pump.
 * August 25, 2017: Another cord of wood from Bob Robblee: $215.
 * September 2, 2017: Extracted honey.
+
+## 2018
+
+* March 2, 2018: Girls weekend, septic frozen.
+* March 4, 2018: Onsite Pressure Washing thawed it out.
+* March 5, 2018: New Stock tank heater - outlet pooched.
+* March 6, 2018: Onsite again to thaw it out, repaired leaking toilet and back sink elbow.
+* March 13, 2018: Warm enough to check on bees - dead, fixed outlet in septic lid.
