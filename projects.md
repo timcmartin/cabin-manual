@@ -117,3 +117,7 @@
 * March 5, 2018: New Stock tank heater - outlet pooched.
 * March 6, 2018: Onsite again to thaw it out, repaired leaking toilet and back sink elbow.
 * March 13, 2018: Warm enough to check on bees - dead, fixed outlet in septic lid.
+* April 19, 2018: Breakup started.
+* April 21, 2018: Most went, ice jam at corner.
+* April 22, 2018: Flooded over bank - through area towards road.
+* April 23, 2018: Ice jam at Red Lodge Park - voluntary evacuation of Silver Lagoon.  Not as bad as yesterday.
