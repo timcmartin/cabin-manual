@@ -121,3 +121,33 @@
 * April 21, 2018: Most went, ice jam at corner.
 * April 22, 2018: Flooded over bank - through area towards road.
 * April 23, 2018: Ice jam at Red Lodge Park - voluntary evacuation of Silver Lagoon.  Not as bad as yesterday.
+* May 26, 27, 2018: Murphy's at cabin.
+* June 4, 2018: Stone path to river.
+* June 18, 2018: Stacked more wood.
+* July 21, 2018: Barb and Meg at cabin.
+* August 21, 2018: Pickles.
+* August 25, 2018: More pickles.
+* September 1, 2018: Tomatoes and chili sauce.  Made a brisket too.
+* September 22, 2018: Moose (and snow!).
+* November 23, 2018: Donair making weekend.
+
+## 2019
+
+* January 1, 2019: Chinnerys at New Years.
+* January 26, 2019: Cabbage Roll Fest.
+* March 23, 2019: River out - no flooding.
+* April 29, 2019: Moose.
+* April 20, 2019: Turkey for Easter with Cate and Rick.
+* May 4, 2019: Saccos, Cougar prints on walk.
+* May 11, 2019: New tractor.
+* May 17, 2019: Moose down river.
+* May 18, 2019: Barn ramp.
+* May 19, 2019: Brisket cook.
+* June 30, 2019: Smoked another brisket to bring to Chinnery Canada Day Party.
+* July 14. 2019: Parker visit - another brisket.
+* August 3, 2019: Chinnerys and Murphys all at cabin.  Scott's last visit.
+* August 14, 2019: Septic pumped - Kendze $262.50.
+* August 30, 2019: Labour day with Marilyn.  Canned jam and pickles.
+* September 21-22, 2019: Canning of the tomatoes.
+* October 12, 2019: New straight shower neck.
+* October 13, 2019: Thanksgiving w/ Saccos.  Deconstructed turkey.
