@@ -10,6 +10,7 @@
 * [Water System](water_system.md)
 * [Radio Stations](radio_stations.md)
 * [Contacts](contacts.md)
+* [For Sale](for_sale/README.md)
 
 ## Archive
 
